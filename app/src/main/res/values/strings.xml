@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+
+    <string name="pref_current_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">London,uk</string>
+
+
+    <string name="pref_units_label">Temperature Units</string>
+    <string name="pref_units_label_celsius">Celsius</string>
+
+    <string name="pref_units_label_fahrenheit">Fahrenheit</string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_units_celsius" translatable="false">Celsius</string>
+    <string name="pref_units_fahrenheit" translatable="false">Fahrenheit</string>
+
+</resources>
